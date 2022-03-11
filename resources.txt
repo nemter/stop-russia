@@ -1,3 +1,7 @@
-178.248.233.32:80
-178.248.233.32:443
-178.248.236.20:53
+https://pay.mironline.ru
+https://msk1-pmpiprxit1.unix.nspk.ru
+https://msk1-pmpiprxit2.unix.nspk.ru
+https://msk1-pmpiprxit21.unix.nspk.ru
+https://pay.stg.mironline.ru
+https://pay.stg2.mironline.ru
+https://mmpa-test.mironline.ru
